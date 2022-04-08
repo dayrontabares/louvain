@@ -20,10 +20,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE. */
 
-package com.github.neiljustice.louvain.graph;
+package com.github.dayrontabares.louvain.graph;
 
-import com.github.neiljustice.louvain.exception.LouvainException;
-import com.github.neiljustice.louvain.util.SparseIntMatrix;
+import com.github.dayrontabares.louvain.exception.LouvainException;
+import com.github.dayrontabares.louvain.util.SparseIntMatrix;
 import gnu.trove.list.array.TIntArrayList;
 
 /**

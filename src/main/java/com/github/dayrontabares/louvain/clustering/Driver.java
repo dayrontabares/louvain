@@ -1,8 +1,8 @@
-package com.github.neiljustice.louvain.clustering;
+package com.github.dayrontabares.louvain.clustering;
 
-import com.github.neiljustice.louvain.graph.Graph;
-import com.github.neiljustice.louvain.graph.GraphBuilder;
-import com.github.neiljustice.louvain.nmi.NMI;
+import com.github.dayrontabares.louvain.graph.Graph;
+import com.github.dayrontabares.louvain.graph.GraphBuilder;
+import com.github.dayrontabares.louvain.nmi.NMI;
 
 
 public class Driver {
