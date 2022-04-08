@@ -20,10 +20,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE. */
 
-package com.github.neiljustice.louvain.clustering;
+package com.github.dayrontabares.louvain.clustering;
 
-import com.github.neiljustice.louvain.graph.Graph;
-import com.github.neiljustice.louvain.graph.GraphBuilder;
+import com.github.dayrontabares.louvain.graph.Graph;
+import com.github.dayrontabares.louvain.graph.GraphBuilder;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 

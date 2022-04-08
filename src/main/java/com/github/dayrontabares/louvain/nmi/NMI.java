@@ -20,9 +20,9 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE. */
 
-package com.github.neiljustice.louvain.nmi;
+package com.github.dayrontabares.louvain.nmi;
 
-import com.github.neiljustice.louvain.clustering.CommunityStructure;
+import com.github.dayrontabares.louvain.clustering.CommunityStructure;
 
 public class NMI {
 
