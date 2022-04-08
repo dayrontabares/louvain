@@ -5,7 +5,7 @@ import com.github.neiljustice.louvain.graph.GraphBuilder;
 import com.github.neiljustice.louvain.nmi.NMI;
 
 
-public class driver {
+public class Driver {
 
     public static void main(String[] args) {
 
