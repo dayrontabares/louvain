@@ -1,2 +1,2 @@
 # louvian
-takes in a cynetwork outputs optimized network
+takes in a cynetwork outputs a network with maximum modularity
